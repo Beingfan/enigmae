@@ -1,0 +1,188 @@
+Uri: https://enigma-win.vercel.app/
+File Name: E:\桌面\下载\enigma-win.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://enigma-win.vercel.app/download.html
+File Name: E:\桌面\下载\enigma-win.vercel.app\download.html
+Content Type: text/html
+
+Uri: https://enigma-win.vercel.app/download_files/apps.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\apps.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/download_files/logo.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\logo.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/download_files/page-download-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\page-download-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/download_files/page-download-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\page-download-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/download_files/shared.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\shared.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/download_files/styles.css
+File Name: E:\桌面\下载\enigma-win.vercel.app\download_files\styles.css
+Content Type: text/css
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/anonymous.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\anonymous.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/app-mobile-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\app-mobile-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/app-mobile-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\app-mobile-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/app-pc-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\app-pc-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/app-pc-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\app-pc-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/banner-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\banner-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/banner-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\banner-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/calls-dark.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\calls-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/calls-light.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\calls-light.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/encryption.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\encryption.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/home.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\home.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/lock-dark.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\lock-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/lock-light.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\lock-light.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/logo.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\logo.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/powerful.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\powerful.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/privacy.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\privacy.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/self-destruct.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\self-destruct.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/shared.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\shared.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/social.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\social.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/styles.css
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\styles.css
+Content Type: text/css
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/synchronize-dark.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\synchronize-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Enigma Messenger_files/synchronize-light.svg
+File Name: E:\桌面\下载\enigma-win.vercel.app\Enigma Messenger_files\synchronize-light.svg
+Content Type: image/svg+xml
+
+Uri: https://enigma-win.vercel.app/Faq.html
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq.html
+Content Type: text/html
+
+Uri: https://enigma-win.vercel.app/Faq_files/faqs.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\faqs.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/Faq_files/logo.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\logo.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Faq_files/page-faq-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\page-faq-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Faq_files/page-faq-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\page-faq-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/Faq_files/shared.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\shared.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/Faq_files/styles.css
+File Name: E:\桌面\下载\enigma-win.vercel.app\Faq_files\styles.css
+Content Type: text/css
+
+Uri: https://enigma-win.vercel.app/index.html
+File Name: E:\桌面\下载\enigma-win.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://enigma-win.vercel.app/privacy.html
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy.html
+Content Type: text/html
+
+Uri: https://enigma-win.vercel.app/privacy_files/logo.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\logo.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/privacy_files/page-privacy-policy-dark.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\page-privacy-policy-dark.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/privacy_files/page-privacy-policy-light.png
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\page-privacy-policy-light.png
+Content Type: image/png
+
+Uri: https://enigma-win.vercel.app/privacy_files/privacy-policy.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\privacy-policy.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/privacy_files/shared.js.download
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\shared.js.download
+Content Type: application/octet-stream
+
+Uri: https://enigma-win.vercel.app/privacy_files/styles.css
+File Name: E:\桌面\下载\enigma-win.vercel.app\privacy_files\styles.css
+Content Type: text/css
+
+Uri: https://enigma.im/im.ico
+File Name: E:\桌面\下载\enigma-win.vercel.app\im.ico
+Content Type: image/x-icon
+
+Uri: https://files.enigma.im/release/202207/28/Enigma_setup_1.9.5_x86.exe
+File Name: E:\桌面\下载\enigma-win.vercel.app\release\202207\28\Enigma_setup_1.9.5_x86.exe
+Content Type: application/octet-stream
+
