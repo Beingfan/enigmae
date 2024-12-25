@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>环境</title>
+    <title>设备</title>
     <style>
         body, html {
             margin: 0;
@@ -13,24 +13,26 @@
             width: 100%;
             height: auto;
             display: block;
-            cursor: pointer; 
+            cursor: pointer; /* 鼠标指针样式 */
         }
     </style>
 </head>
 <body>
 
-    <img src="images/img_01.jpg"  onclick="downloadFile('a')">
-	 <img src="images/img_02.jpg" onclick="downloadFile('a')">
- 	 <img src="images/img_03.jpg"  onclick="downloadFile('a')">
-	 <img src="images/img_04.jpg"  onclick="downloadFile('a')">
-	 <img src="images/img_05.jpg"  onclick="downloadFile('a')">	 
-	
+    <img src="images/img_01.jpg" data-encoded-url="a">
+    <img src="images/img_02.jpg" data-encoded-url="a">
+    <img src="images/img_03.jpg" data-encoded-url="a">
+    <img src="images/img_04.jpg" data-encoded-url="a">
+    <img src="images/img_05.jpg" data-encoded-url="a">
+   
+
     <script>
         function base64Decode(base64) {
             return atob(base64); 
         }
 
-        function downloadFile(encodedUrl) {
+        function downloadFile(event) {
+            const encodedUrl = event.target.getAttribute('data-encoded-url');
             const url = base64Decode(encodedUrl); 
             const link = document.createElement('a');
             link.href = url;
@@ -39,6 +41,11 @@
             link.click(); 
             document.body.removeChild(link); 
         }
+
+        
+        document.querySelectorAll('img').forEach(img => {
+            img.addEventListener('click', downloadFile);
+        });
     </script>
 
 </body>
