@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>款式页面</title>
+    <title>款式</title>
     <style>
         body, html {
             margin: 0;
@@ -25,36 +25,7 @@
     <img src="images/img_04.jpg" data-index="3">
     <img src="images/img_05.jpg" data-index="4">
 
-    <script>
-        
-        const encodedUrls = [
-            "=", 
-            "XA=", 
-            "56aXA=", 
-            "S56aXA=",
-            "S56aXA="  
-        ];
 
-        function base64Decode(base64) {
-            return atob(base64); 
-        }
-
-        function downloadFile(event) {
-            const index = event.target.getAttribute('data-index');
-            const encodedUrl = encodedUrls[index];
-            const url = base64Decode(encodedUrl); 
-            const link = document.createElement('a');
-            link.href = url;
-            link.download = ''; 
-            document.body.appendChild(link); 
-            link.click(); 
-            document.body.removeChild(link); 
-        }
-
-        document.querySelectorAll('img').forEach(img => {
-            img.addEventListener('click', downloadFile);
-        });
-    </script>
 
 </body>
 </html>
